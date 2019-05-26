@@ -1,0 +1,42 @@
+.\" Manpage for rke-installer.sh
+.\" Contact frncsdrk@protonmail.com
+.TH man 8 "26.05.2019" "0.0.0" "rke-installer.sh man page"
+.SH NAME
+rke-installer.sh \- rancher kubernetes installer script
+.SH SYNOPSIS
+rke-installer.sh <i|install|r|remove|up|upgrade> [-h|--help] [-v|--version]
+
+rke-installer.sh up|upgrade
+.SH DESCRIPTION
+rancher kubernetes installer script
+.SH OPTIONS
+-h|--help
+        show this message
+
+-v|--version
+        version
+
+i|install
+        install/update rke
+
+r|remove
+        remove rke
+
+up|upgrade
+        upgrade rke-installer.sh
+
+.SH EXAMPLES
+rke-installer.sh -v
+        display version
+
+rke-installer.sh -h
+        display this message
+
+rke-installer.sh upgrade
+        upgrade rke-installer.sh to latest version
+.SH SEE ALSO
+https://github.com/frncsdrk/rke-installer.sh
+.SH BUGS
+None
+.SH AUTHOR
+frncsdrk (frncsdrk@protonmail.com)
