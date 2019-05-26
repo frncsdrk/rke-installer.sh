@@ -33,6 +33,8 @@ Examples:
 
 ### automatically
 
+Run `curl https://raw.githubusercontent.com/frncsdrk/rke-installer.sh/master/download.sh | sudo bash`
+
 ### manually
 
 - clone the repo
