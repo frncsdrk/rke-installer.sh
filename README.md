@@ -40,4 +40,4 @@ Examples:
 
 ## license
 
-[MIT](https://github.com/frncsdrk/rke-installer.sh/blob/master/LICENSE) (c) frncsdrk 2019 - present
+[MIT](https://git.sr.ht/~frncsdrk/rke-installer.sh/tree/master/LICENSE) (c) frncsdrk 2019 - present
